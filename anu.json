@@ -1,0 +1,42 @@
+[
+    {
+        "family_name": "Special For You",
+        "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+        "is_enterprise": false,
+        "variant_name": "Special For You",
+        "option_name": "BONUS #TraktiranXL 28th Anniversary",
+        "order": 7
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+        "is_enterprise": true,
+        "variant_name": "BIZ Prepaid",
+        "option_name": "BIZ Starter",
+        "order": 1
+    },
+    {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "Swadaya XLalu Untukmu 11GB",
+        "order": 4
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
+        "is_enterprise": true,
+        "variant_name": "BIZ E-Commerce",
+        "option_name": "BIZ Starter",
+        "order": 5
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "9bab710b-6bcb-486b-980f-46f434c31bc4",
+        "is_enterprise": true,
+        "variant_name": "BIZ Package",
+        "option_name": "BIZ Starter",
+        "order": 1
+    }
+]
