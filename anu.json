@@ -1,12 +1,7 @@
-''''' jangan ya dek !!!!'''''
 [
     {
-        #"family_name": "Special For You",
         "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
         "is_enterprise": false,
-        #"variant_name": "Special For You",
-        #"option_name": "BONUS #TraktiranXL 28th Anniversary",
-        #"order": 7
     },
     {
         "family_name": "BIZ Prepaid",
